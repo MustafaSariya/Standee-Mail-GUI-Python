@@ -3,3 +3,9 @@ A stand alone mail application written in python. Using GUI as tkinter. Transfer
 
 
 For any changes and code contact on: mustafasaria@yahoo.co.in
+
+Customization can be done on request.
+
+Enjoy and very useful for students to use as project in the final year.
+
+Check it out and post your comments.
